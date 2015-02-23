@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TvZappr.Web", "TvZappr.Web\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TvZappr.Interop", "TvZappr.Interop\TvZappr.Interop.csproj", "{01D0E78C-8EE7-4B18-AE4D-9144928B9EB9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TvZappr.Tests", "TvZappr.Tests\TvZappr.Tests.csproj", "{7D301101-97CD-487E-8093-82A461F1FE82}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{01D0E78C-8EE7-4B18-AE4D-9144928B9EB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01D0E78C-8EE7-4B18-AE4D-9144928B9EB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01D0E78C-8EE7-4B18-AE4D-9144928B9EB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D301101-97CD-487E-8093-82A461F1FE82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D301101-97CD-487E-8093-82A461F1FE82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D301101-97CD-487E-8093-82A461F1FE82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D301101-97CD-487E-8093-82A461F1FE82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
