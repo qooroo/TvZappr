@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22512.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TvZappr.Web", "TvZappr.Web\TvZappr.Web.csproj", "{4AB9CBC0-E97E-4664-8046-5B87E2B914D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TvZappr.Interop", "TvZappr.Interop\TvZappr.Interop.csproj", "{01D0E78C-8EE7-4B18-AE4D-9144928B9EB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AB9CBC0-E97E-4664-8046-5B87E2B914D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AB9CBC0-E97E-4664-8046-5B87E2B914D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AB9CBC0-E97E-4664-8046-5B87E2B914D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AB9CBC0-E97E-4664-8046-5B87E2B914D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01D0E78C-8EE7-4B18-AE4D-9144928B9EB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01D0E78C-8EE7-4B18-AE4D-9144928B9EB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01D0E78C-8EE7-4B18-AE4D-9144928B9EB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01D0E78C-8EE7-4B18-AE4D-9144928B9EB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
